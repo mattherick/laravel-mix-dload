@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/dadamotion/laravel-mix-download#readme",
   "peerDependencies": {
-    "laravel-mix": "^2.1.7"
+    "laravel-mix": "^6.0.6"
   },
   "dependencies": {
       "download": "^6.2.5"
